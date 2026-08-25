@@ -2,7 +2,8 @@
 
 This project features an interactive dashboard designed in Tableau to analyze employee turnover rates. The main objective is to identify patterns, evaluate risk factors, and uncover the root causes driving talent attrition within the organization.
 
-[![Dashboard Preview](insert-your-image-name-here.png)](https://public.tableau.com/...)
+[![Dashboard Preview](<img width="662" height="847" alt="attrition" src="https://github.com/user-attachments/assets/cb51db25-dcd2-4ce8-ad9e-424d4ac5ee9e" />
+)](https://public.tableau.com/...)
 
 👉 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/...)**
 
