@@ -13,6 +13,7 @@ The main question we aim to answer is: **Which employees present the highest fli
 
 ## **DASHBOARD 1 - Attrition filtered by department**
 👉 Click the dashboard to interact with metrics
+
 [![Dashboard Preview](attrition.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Attrition_Department/Dashboard1)
 
 ### 🎯 Analysis Objectives
