@@ -6,8 +6,8 @@ This project features interactive dashboards designed in Tableau to analyze empl
 The main question we aim to answer is: **Which employees present the highest flight risk?**
 
 ## 🛠️ Data
-**Source:** For this analysis, we used the "HR Analytics Employee Attrition & Performance" dataset, sourced from Kaggle.
-**Cleaning and Transformation:** The data was processed in Tableau by selecting the relevant columns, removing null values, and transforming parameters.
+* **Source:** For this analysis, we used the "HR Analytics Employee Attrition & Performance" dataset, sourced from Kaggle.
+* **Cleaning and Transformation:** The data was processed in Tableau by selecting the relevant columns, removing null values, and transforming parameters.
 
 ---
 
