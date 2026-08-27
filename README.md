@@ -4,7 +4,7 @@ This project features an interactive dashboard designed in Tableau to analyze em
 
 [![Dashboard Preview](attrition.png)](https://public.tableau.com/...)
 
-👉 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/...)**
+👉 **[Click here to view the interactive dashboard on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard1?publish=yes)**
 
 ---
 
