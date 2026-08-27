@@ -1,6 +1,12 @@
 # 📊 Employee Turnover Rate Analysis
+## Intro
+We work as People Analysts for a Life Sciences company, and corporate has asked us to identify employees with a higher risk of attrition.
+This project features interactive dashboards designed in Tableau to analyze employee turnover rates & behaviour. The main objective is to identify patterns, evaluate risk factors, and uncover the root causes driving talent attrition within the organization.
 
-This project features an interactive dashboard designed in Tableau to analyze employee turnover rates. The main objective is to identify patterns, evaluate risk factors, and uncover the root causes driving talent attrition within the organization.
+The main question we aim to answer is: **Which employees present a higher risk of attrition?**
+
+---
+
 ## **DASHBOARD 1 - Attrition filtered by department**
 [![Dashboard Preview](attrition.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Attrition_Department/Dashboard1)
 
