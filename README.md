@@ -32,6 +32,7 @@ The main question we aim to answer is: **Which employees present the highest fli
 
 ## **DASHBOARD 2 - Year of attrition filtered by role**
 👉 Click the dashboard to interact with metrics
+
 [![Dashboard Preview](turnover_role.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard2)
 
 ### 🎯 Analysis Objectives
