@@ -4,19 +4,26 @@ This project features an interactive dashboard designed in Tableau to analyze em
 ## **DASHBOARD 1 - Attrition filtered by department**
 [![Dashboard Preview](attrition.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Attrition_Department/Dashboard1)
 
+### 🎯 Analysis Objectives
+* **Identify** departments or roles with the highest turnover rates.
+* **Analyze** demographic and workplace variables (salary & job satisfaction) that impact employee retention.
+* **Provide** actionable insights for Human Resources (HR) teams to improve retention strategies.
+
+
 ## **DASHBOARD 2 - Year of attrition filtered by role**
 [![Dashboard Preview](turnover_role.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard2)
 
-👉 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard1?publish=yes)**
+### 🎯 Analysis Objectives
+* **Identify** years at company with higher turnover rate and percentage of attrition.
+* **Analyze** the influence of the job role on employee retention.
+* **To carry on** retention strategies at target employees.
+
+
+👉 **[Click here to view more interactive dashboards on my profile of Tableau Public](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard1?publish=yes)**
 
 ---
 
-## 🎯 Analysis Objectives
-* **Identify** departments or roles with the highest turnover rates.
-* **Analyze** demographic and workplace variables (e.g., salary, tenure, job satisfaction) that impact employee retention.
-* **Provide** actionable insights for Human Resources (HR) teams to improve retention strategies.
-
-## 🛠️ Tools Used
+### 🛠️ Tools Used
 * **Tableau:** Data visualization and dashboard creation.
 * **Git & GitHub:** Version control and portfolio hosting.
 * **[Your data tool, e.g., Excel / SQL / Python]:** Data cleaning and dataset structuring.
