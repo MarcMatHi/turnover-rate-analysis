@@ -26,4 +26,3 @@ This project features an interactive dashboard designed in Tableau to analyze em
 ### 🛠️ Tools Used
 * **Tableau:** Data visualization and dashboard creation.
 * **Git & GitHub:** Version control and portfolio hosting.
-* **[Your data tool, e.g., Excel / SQL / Python]:** Data cleaning and dataset structuring.
