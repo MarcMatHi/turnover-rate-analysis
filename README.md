@@ -14,7 +14,7 @@ The main question we aim to answer is: **Which employees present the highest fli
 ## **DASHBOARD 1 - Attrition filtered by department**
 👉 Click the dashboard to interact with metrics
 
-[![Dashboard Preview](attrition.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Attrition_Department/Dashboard1)
+[![Dashboard Preview](Images/attrition.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Attrition_Department/Dashboard1)
 
 ### 🎯 Analysis Objectives
 * **Identify** departments or roles with the highest turnover rates.
@@ -33,7 +33,7 @@ The main question we aim to answer is: **Which employees present the highest fli
 ## **DASHBOARD 2 - Year of attrition filtered by role**
 👉 Click the dashboard to interact with metrics
 
-[![Dashboard Preview](turnover_role.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard2)
+[![Dashboard Preview](Images/turnover_role.png)](https://public.tableau.com/app/profile/marc.mateu.higueras/viz/Dashboard_Rotacin_Empleados/Dashboard2)
 
 ### 🎯 Analysis Objectives
 * **Identify** years at company with higher turnover rate and percentage of attrition.
