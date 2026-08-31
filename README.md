@@ -56,7 +56,7 @@ The main question we aim to answer is: **Which employees present the highest fli
 
 ## 🚀 Strategic Recommendations for HR and Leadership
 
-To mitigate flight risk and reduce replacement costs—especially for entry-level talent—we propose the following action plan:
+To mitigate flight risk and reduce replacement costs, specially for entry-level talent, we propose the following action plan:
 
 * **Revamp Onboarding:** Implement mandatory 30, 60, and 90-day check-ins for *Sales Representatives* and *Laboratory Technicians* to provide support during their highest flight-risk window.
 
